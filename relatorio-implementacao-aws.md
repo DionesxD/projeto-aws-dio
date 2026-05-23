@@ -1,6 +1,6 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-**Data:** [01/06;2026]  
+**Data:** [01/06/2026]  
 **Empresa:** Abstergo
 
 **Responsável:** [Johnny Alejandro]

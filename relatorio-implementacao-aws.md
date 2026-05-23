@@ -127,10 +127,9 @@ Recomenda-se que, após a implementação inicial, a empresa avalie novos servi�
 
 ## Anexos
 
-- Anexo I — Diagrama básico da arquitetura proposta
-- Anexo II — Estimativa inicial de custos AWS
-- Anexo III — Política básica de backup e retenção de documentos
-- Anexo IV — Plano de expansão para portal B2B
+- [Anexo I — Arquitetura Proposta](docs/arquitetura-proposta.md)
+- [Anexo II — Estimativa Inicial de Custos](docs/estimativa-custos.md)
+- [Anexo III — Política de Backup e Retenção](docs/politica-backup-retencao.md)
 
 ---
 
